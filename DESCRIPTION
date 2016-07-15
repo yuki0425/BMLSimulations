@@ -1,0 +1,11 @@
+Package: BMLSimulations
+Type: Package
+Title: Biham-Middleton-Levine Traffic Model simple simulation
+Version: 1.0
+Date: 2015-04-29
+Author: Yuki Liu
+Maintainer: Yuki Liu <yukliu@ucdavis.edu>
+Description: This package allows user to simulate a basic Biham-Middleton-Levine traffic model with two type of cars (red and blue) moving on a two-dimensional grid. 
+License: MIT
+Suggests: testthat
+Packaged: 2015-04-30 21:21:48 UTC; liuyuki
